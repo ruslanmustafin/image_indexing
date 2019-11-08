@@ -32,3 +32,8 @@ jupyter lab
 ```
 
 Then navigate to `localhost:8888` (port can be overridden with `--port` option)
+
+## Troubleshooting
+
+If you have problems with TQDM in jupyter lab, refer to this
+https://gist.github.com/ruslanmustafin/149c1f19e2780c3588a5d0c5da6f2d46
