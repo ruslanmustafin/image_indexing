@@ -1,4 +1,6 @@
-# image_indexing
+# Indexing image data with machine learning
+
+Using tagging and representation learning to extract structure from image data
 
 ## Installation
 
