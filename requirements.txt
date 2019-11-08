@@ -1,0 +1,8 @@
+torch
+torchvision
+Pillow
+numpy
+seaborn
+matplotlib
+tqdm
+jupyterlab # if you want to run the notebooks
